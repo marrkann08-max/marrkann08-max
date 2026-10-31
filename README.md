@@ -1,53 +1,43 @@
-<p align="left"><strong>SOFTWARE / APPLIED AI / EXPERIMENTS</strong></p>
-
 # Keshav Markan
 
-I build tools that make complex systems easier to understand—from explainable software-effort predictions to hardware-connected safety experiments and hand-controlled particle effects.
+Computer science student at Conestoga College, based in Waterloo, Ontario.
 
-Bachelor of Computer Science at **Conestoga College** · Waterloo, Ontario
+I work on applied AI research, developer tools, and computer vision projects. Outside that, I help run developer events and facilitate programming study sessions.
 
-[Portfolio ↗](https://keshavmarkan.com) · [LinkedIn](https://www.linkedin.com/in/keshav-kumar-markan-1bb0483a4) · [Devpost](https://devpost.com/marrkann08) · [Instagram / @kaylocksin](https://www.instagram.com/kaylocksin/) · [Email](mailto:marrkann08@gmail.com)
+[Portfolio](https://keshavmarkan.com) · [LinkedIn](https://www.linkedin.com/in/keshav-kumar-markan-1bb0483a4) · [Devpost](https://devpost.com/marrkann08) · [Instagram](https://www.instagram.com/kaylocksin/) · [Email](mailto:marrkann08@gmail.com)
 
-## Selected work
+## Projects
 
-| Project | What I built | Explore |
-| :--- | :--- | :--- |
-| **Software Effort Estimator** | FAHP-weighted SVR research with SHAP explanations, prediction intervals, and pipelines across 91 GitHub repositories. | [Research app](https://software-effort-estimator.streamlit.app) |
-| **ChainBreak** | ESP32-connected motorsport warning prototype, tested across 1,200 simulated stress scenarios. Includes explicit stale-sensor behavior and 41 automated tests. | [Repository](https://github.com/marrkann08-max/Chain-Break) |
-| **Ki Forge** | A local computer-vision playground: charge an energy ball with your palms, then compress and burst its particles with a fist. | [Code & setup](https://github.com/marrkann08-max/100-days-ai-ml/tree/main/projects/003-ki-forge) |
-| **Interactive portfolio** | React + TypeScript, an explorable Three.js campus, optional hand scrolling, a discovery passport, and a shared Cloudflare D1 guestbook. | [Explore the campus](https://keshavmarkan.com) |
+- **[Software Effort Estimator](https://software-effort-estimator.streamlit.app)** — Research application using FAHP-weighted SVR, SHAP explanations, and prediction intervals. Includes data pipelines covering 91 GitHub repositories.
+- **[ChainBreak](https://github.com/marrkann08-max/Chain-Break)** — An ESP32-connected prototype for testing motorsport warning delays across 1,200 simulated scenarios.
+- **[Ki Forge](https://github.com/marrkann08-max/100-days-ai-ml/tree/main/projects/003-ki-forge)** — Charge a particle energy ball with your palms, then burst it with a fist. Built with Python, OpenCV, MediaPipe, and NumPy.
+- **[Portfolio](https://github.com/marrkann08-max/keshav-portfolio)** — React, TypeScript, and Three.js, with an explorable campus, optional hand scrolling, and a shared guestbook.
 
-## Building in public
+## 100 Days, 100 Projects
 
-**100 Days, 100 Projects** — learning by making something tangible and sharing the process.
+I'm building a project a day and sharing it on [@kaylocksin](https://www.instagram.com/kaylocksin/).
 
-- **001 / Smart Traffic Navigator** — Dijkstra’s algorithm with changing traffic conditions.
-- **002 / Interactive portfolio** — the home for my research, work, and experiments.
-- **003 / Ki Forge** — hand tracking, persistent particle simulation, and synthesized audio.
+| Day | Project |
+| --- | --- |
+| 001 | [Smart Traffic Navigator](https://github.com/marrkann08-max/100-days-ai-ml/tree/main/projects/001-smart-traffic-navigator) |
+| 002 | [Interactive portfolio](https://keshavmarkan.com) |
+| 003 | [Ki Forge](https://github.com/marrkann08-max/100-days-ai-ml/tree/main/projects/003-ki-forge) |
 
-[Browse the project journal →](https://github.com/marrkann08-max/100-days-ai-ml) · [Follow the series →](https://www.instagram.com/kaylocksin/)
+[Browse the series](https://github.com/marrkann08-max/100-days-ai-ml)
 
-## Where I work
+## Experience
 
-- **Research Assistant · Conestoga College** — applied machine learning, reproducible data pipelines, and explainable predictions.
-- **Software Engineer Intern · Deepiri** — consolidated developer setup across seven teams; fixed CI and startup issues; validated eight configurations across Windows and Linux.
-- **OER Assistant · Conestoga Open Learning** — accessible templates for Pressbooks, H5P Studio, and WordPress courses supporting 1,000+ students with zero-cost materials.
-- **PAL Student Leader · Conestoga College** — facilitate two weekly collaborative C programming sessions for around 35 first-year students.
-- **Student Life Representative · Conestoga Students Inc.** — connect students with services and support campus events.
+- **Research Assistant, Conestoga College:** software effort estimation, data pipelines, and explainable predictions.
+- **Previously at Deepiri:** development environment setup across seven teams, CI fixes, and Windows/Linux validation.
+- **OER Assistant, Conestoga Open Learning:** accessible Pressbooks, H5P Studio, and WordPress templates for zero-cost courses used by 1,000+ students.
+- **PAL Student Leader:** facilitate two weekly C programming study sessions for around 35 first-year students.
+- **Student Life Representative, CSI:** student services, campus events, and engagement.
 
-## Tools I use
+I also help organize events as Executive Lead at GDG Conestoga and a Subcommittee Member at GDG Waterloo.
 
-**Applied AI & data**  
-Python · scikit-learn · pandas · NumPy · SHAP · Streamlit · OpenCV · MediaPipe
+## Tools
 
-**Web & infrastructure**  
-TypeScript · JavaScript · React · Three.js · Flask · Node.js · Cloudflare Workers · D1
-
-**Systems & developer tools**  
-C · ESP32 · Git · GitHub Actions · Docker Compose · Bash · PowerShell
-
-## Beyond the code
-
-Executive Lead at **GDG Conestoga** and Subcommittee Member at **GDG Waterloo**—helping bring workshops, hackathons, and developer communities together.
-
-[Let’s connect →](mailto:marrkann08@gmail.com)
+Python · C · TypeScript · JavaScript  
+scikit-learn · pandas · NumPy · SHAP · Streamlit · OpenCV · MediaPipe  
+React · Three.js · Flask · Node.js · Cloudflare Workers · D1  
+Git · GitHub Actions · Docker Compose · Bash · PowerShell · ESP32
